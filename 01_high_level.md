@@ -1,3 +1,5 @@
+# High Level Overview
+
 What happens when you search nooma.tv on the browser?
 * Makes a request to the DNS Server that converts domain name to IP Address
 * Go to the computer (server) associated with the IP Address
@@ -64,3 +66,6 @@ What is JavaScript?
 * JavaScript is a language we can use to interact with each HTML elements and
   use bring them to life. For example when a button is clicked we can move the
   h1 down by 50px
+
+# Homework
+Finish HTML/CSS course on Codecademy.
