@@ -52,3 +52,7 @@
 * Alternative is to have a separate site for desktop and mobile
 * Instead of using absolute values like 15px, values based on proportion like
   75% are used
+
+# Homework
+
+Finish half of the JavaScript course on Codecademy
