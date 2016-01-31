@@ -16,5 +16,8 @@
 
 ### What is a SELF JOIN?
 
-# Homework
-Finish as much SQLZoo as possible.
+# Workout Level 1
+Finish the [SQL chapter](https://www.codecademy.com/learn/learn-sql) in Codecademy.
+
+# Workout Level 2
+Finish as much [sqlzoo](http://sqlzoo.net/) as possible.
