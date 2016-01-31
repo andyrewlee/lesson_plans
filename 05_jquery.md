@@ -43,5 +43,12 @@ It also allows us to use simpler syntax for common JavaScript tasks.
       alert("what");
     });
 
-# Homework
-Build a website using the Star Wars API.
+### When should we use .on?
+
+### Why do some people use $(document).ready while other people don't?
+
+# Workout Level 1
+Build a website either using the [Star Wars API](https://swapi.co/) or [the Pokemon API](http://pokeapi.co/)
+
+# Workout Level 2
+Build a website using [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/)

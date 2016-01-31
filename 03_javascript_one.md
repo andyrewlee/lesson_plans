@@ -101,3 +101,9 @@
       console.log("Battle");
       success = true;
     }
+
+# Workout Level 1
+
+Write an algorithm that will reverse an array without using the built in reverse
+function.
+

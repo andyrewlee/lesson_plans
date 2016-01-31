@@ -55,3 +55,6 @@ database have the same columns.
 ### How do we look at a wireframe and come up with the database design?
 * Break them out into individual tables first
 * Then ask a question has many? belongs to? with every table
+
+# Workout Level 1
+Create an ERD diagram for a blog
