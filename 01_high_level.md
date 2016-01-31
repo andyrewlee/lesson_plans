@@ -67,5 +67,5 @@
   use bring them to life. For example when a button is clicked we can move the
   h1 down by 50px
 
-# Homework
-Finish HTML/CSS course on Codecademy.
+# Workout Level 1
+Finish [HTML/CSS](https://www.codecademy.com/learn/web) course on Codecademy.

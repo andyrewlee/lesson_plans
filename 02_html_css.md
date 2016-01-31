@@ -53,6 +53,6 @@
 * Instead of using absolute values like 15px, values based on proportion like
   75% are used
 
-# Homework
+# Workout Level 1
 
-Finish half of the JavaScript course on Codecademy
+Finish the [JavaScript](https://www.codecademy.com/learn/javascript) course on Codecademy
